@@ -6,6 +6,6 @@ Repositorio en el que se irán añadiendo los ejemplos vistos en clase y las est
 
  **José Manuel Fernández Díaz**
 
-  > ![@jmfdiazAL](assets/images/github.png) @jmfdiazAL
+  > ![@jmfdiazAL](/images/github.png) @jmfdiazAL
 
-  > ![josemanuel.fernandez@iesalandalus.org](assets/images/mail.png) josemanuel.fernandez@iesalandalus.org
+  > ![josemanuel.fernandez@iesalandalus.org](/images/mail.png) josemanuel.fernandez@iesalandalus.org
