@@ -1,0 +1,16 @@
+# 2. Introducción: Aplicaciones, Ejecutables y Procesos
+
+ A simple vista, parece que con los términos [aplicación](../../../../../mod/glossary/showentry.php?displayformat=dictionary&concept=Aplicaci%C3%B3n%20%28DAM_PSP01%29), [ejecutable](../../../../../mod/glossary/showentry.php?displayformat=dictionary&concept=Ejecutable%20%28DAM_PSP01%29) y [proceso](../../../../../mod/glossary/showentry.php?displayformat=dictionary&concept=Proceso%20%28DAM_PSP01%29), nos estamos refiriendo a lo mismo. Pero, no olvidemos que en los módulos de primero hemos aprendido a diferenciarlos.
+
+ Una **aplicación** es un tipo de programa informático, diseñado como herramienta para resolver de manera automática un problema específico del usuario.
+
+ Debemos darnos cuenta de que sobre el [hardware](../../../../../mod/glossary/showentry.php?displayformat=dictionary&concept=Hardware%20%28DAM_PSP01%29) del equipo, todo lo que se ejecuta son programas informáticos, que, ya sabemos, que se llama [software](../../../../../mod/glossary/showentry.php?displayformat=dictionary&concept=Software%20%28DAM_PSP01%29). Con la definición de aplicación anterior, buscamos diferenciar las aplicaciones, de otro tipo de programas informáticos, como pueden ser: los sistemas operativos, las utilidades para el mantenimiento del sistema, o las herramientas para el desarrollo de software. Por lo tanto, son aplicaciones, aquellos programas que nos permiten editar una imagen, enviar un correo electrónico, navegar en Internet, editar un documento de texto, chatear, etc.
+
+ Recordemos, que un programa es el conjunto de instrucciones que ejecutadas en un ordenador realizarán una tarea o ayudarán al usuario a realizarla. Nosotros, como programadores y programadoras, creamos un programa, escribiendo su [código fuente](../../../../../mod/glossary/showentry.php?displayformat=dictionary&concept=C%C3%B3digo%20fuente%20%28DAM_PSP01%29); con ayuda de un compilador, obtenemos su [código binario](../../../../../mod/glossary/showentry.php?displayformat=dictionary&concept=C%C3%B3digo%20binario%20%28DAM_PSP01%29) o [interpretado](../../../../../mod/glossary/showentry.php?displayformat=dictionary&concept=C%C3%B3digo%20interpretado%20%28DAM_PSP01%29). Este código binario o interpretado, lo guardamos en un fichero. Este fichero, es un fichero ejecutable, llamado comúnmente: ejecutable o binario.
+
+ Ya tenemos más clara la diferencia entre aplicación y ejecutable. Ahora, ¿qué es un proceso?
+
+ De forma sencilla, un **proceso**, es un programa en ejecución. Pero, es más que eso, un proceso en el sistema operativo \(SO\), es una unidad de trabajo completa; y, el SO gestiona los distintos procesos que se encuentren en ejecución en el equipo. En siguientes apartados de esta unidad trataremos más en profundidad todo lo relacionado con los procesos y el SO. Lo más importante, es que diferenciemos que un ejecutables es un fichero y un proceso es una entidad activa, el contenido del ejecutable, ejecutándose.
+
+ Un proceso existe mientras que se esté ejecutando una aplicación. Es más, la ejecución de una aplicación, puede implicar que se arranquen varios procesos en nuestro equipo; y puede estar formada por varios ejecutables y [librerías](../../../../../mod/glossary/showentry.php?displayformat=dictionary&concept=Librer%C3%ADa%20%28DAM_PSP01%29).
+
